@@ -9,8 +9,6 @@ Built with modern Java 21 and Spring Boot on the backend, it delivers a responsi
     **Frontend:** HTML5, CSS3\
     **Database:** MySQL\
     **IDE:** IntelliJ IDEA Community Edition
-    
-*   **Version Control:** Git (hosted on GitHub: [https://github.com/inc06nito9/VBS](https://github.com/inc06nito9/VBS))
 
 ## Core Features
 
