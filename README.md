@@ -1,6 +1,6 @@
 # Virtual Banking System (VBS)
 
-A full-stack web application simulating a secure online banking platform. Built with modern Java 21 and Spring Boot on the backend, it delivers a responsive UI powered by HTML & CSS and runs on Apache Tomcat 10. All data is persisted in a MySQL database, and the project is managed with IntelliJ IDEA Community Edition.
+Built with modern Java 21 and Spring Boot on the backend, it delivers a responsive UI powered by HTML & CSS and runs on Apache Tomcat 10. All data is persisted in a MySQL database, and the project is managed with IntelliJ IDEA Community Edition.
 
 ## Key Technologies
 
