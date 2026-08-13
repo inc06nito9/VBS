@@ -2,6 +2,8 @@
 
 Built with modern Java 21 and Spring Boot on the backend, it delivers a responsive UI powered by HTML & CSS and runs on Apache Tomcat 10. All data is persisted in a MySQL database, and the project is managed with IntelliJ IDEA Community Edition.
 
+![dashboard](images/dashboard.png)
+
 ## Key Technologies
 
 *   ***TechStack:*** \
@@ -30,6 +32,14 @@ Built with modern Java 21 and Spring Boot on the backend, it delivers a responsi
 *   **Role-Based Access Control:** Distinct permission sets for customers and administrators ensure that each user sees only the functionalities they’re authorized for, enhancing security and usability.
 *   **Detailed Auditing:** Every operation (login, deposit, balance check, admin modifications) is recorded with timestamps, user IDs, and names, providing a clear audit trail for compliance and troubleshooting.
 *   **Modular Architecture:** Controllers, services, and repositories are cleanly separated, making the codebase easy to extend (e.g., adding fund transfers or loan modules). This design promotes maintainability and future development.
+
+## Some ScreenCaps
+
+![login](images/login.png)
+
+![history](images/history.png)
+
+![sign_up](images/new_user)
 
 ## Getting Started
 
