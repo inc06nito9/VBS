@@ -39,7 +39,7 @@ Built with modern Java 21 and Spring Boot on the backend, it delivers a responsi
 
 ![history](images/history.png)
 
-![sign_up](images/new_user)
+![new_user](images/new_user.png)
 
 ## Getting Started
 
