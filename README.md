@@ -50,7 +50,7 @@ Built with modern Java 21 and Spring Boot on the backend, it delivers a responsi
 2.  **Configure the database:**
     *   Ensure you have MySQL installed and running.
     *   Create the `Spring111.db` Schema to create the necessary database schema. 
-    *   Run the `VbsApplication.java` file from IntelliJ IDEA Community Edition. .
+    *   Run the `VbsApplication.java` file from IntelliJ IDEA Community Edition.
 3.  **Access the app:**
     Open your web browser and navigate to: `http://localhost:8081/`
 
